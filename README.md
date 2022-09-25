@@ -4,7 +4,7 @@
 
 <br>
 
-[Automatically Download](https://github.com/elementary/wallpapers/archive/refs/heads/master.zip)
+[Automatically Download](https://github.com/KaikSelhorst/WallpaperPack/archive/refs/heads/main.zip)
 <br><br><br>
 
 ### Manual
